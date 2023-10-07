@@ -1,4 +1,0 @@
-*{
-  margin: 15px auto;
-  padding: 0 auto
-}
